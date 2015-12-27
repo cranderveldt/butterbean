@@ -5,9 +5,9 @@ The goal of this mod is to be a compromise between [my previous mod, MOM](https:
 
 So what does this mod do? Isaac starts with a key and every starting room has a butter bean item pedestal behind keyblocks (one on each side). This allows racers to see one item every reset, and two for every adjacent treasure room. This will also add an additional layer of strategy for end-of-floor rerolls, as saving the roll for the butter bean on the next floor could net you with a good item in exchange for a key.
 
-Character: Isaac
-Character Changes: Isaac starts with a key
-Room Changes: Every starting room has a Butter Bean behind locked keyblocks (one on each side)
+* Character: Isaac
+* Character Changes: Isaac starts with a key
+* Room Changes: Every starting room has a Butter Bean behind locked keyblocks (one on each side)
 
 ## How to install
 
